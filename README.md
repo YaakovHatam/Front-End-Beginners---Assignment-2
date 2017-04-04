@@ -3,10 +3,9 @@ HTML &amp; Basic CSS exercise
 
 ## Project files
 The roject files taken from https://github.com/kob-e/Front-End-Beginners---Assignment-1
-files:
-* index.html
-* styles/main.css
-* README.md
+plus the file:
+* images/book-cover.png
+
 
 ## What should you do
 

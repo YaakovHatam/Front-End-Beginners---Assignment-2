@@ -10,22 +10,25 @@ plus the file:
 
 
 ## What should you do
-### HTML
-> For images use `figure` and `figcaption` HTML tags please.
-Open a new HTML file `contact.html` with the following fields:
-* First name
-* Email
-* Phone number
-* Details
-
-and send button.
-
 ### Colors:
+the following colors will be used this exercise:
 * #1: `rgb(70,137,102)`
 * #2: `rgb(255,240,165)`
 * #3: `rgb(255,176,59)`
 * #4: `rgb(182,73,38)`
 * #5: `rgb(142,40,0)`
+
+### HTML
+> For images use `figure` and `figcaption` HTML tags please.
+
+####Open a new HTML file
+The file name is `contact.html` with the following fields:
+* First name
+* Email
+* Phone number
+* Details
+and send button.
+
 
 ### CSS:
 #### `index.html`
@@ -61,12 +64,13 @@ and send button.
 ##### Screenshot:
 ![Screenshot of contact.html page](./screenshots/ex2-contact-screenshot.png)
 
-#### Tips &amp; Tricks
+### Tips &amp; Tricks
 * use `margin: 0 auto` to center page
+
 ## Result
 Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-2/after/index.html
 
-### Reference material
+### Reference materials
 
 #### Softwares:
 Download Brackets: http://brackets.io/

@@ -8,23 +8,23 @@ plus the file:
 
 
 ## What should you do
-For images use `figure` and `figcaption` HTML tags please.
-Colors:
+### For images use `figure` and `figcaption` HTML tags please.
+
+### Colors:
 * #1: `rgb(70,137,102)`
 * #2: `rgb(255,240,165)`
 * #3: `rgb(255,176,59)`
 * #4: `rgb(182,73,38)`
 * #5: `rgb(142,40,0)`
 
-declare the font size of the document to be 15px;
-declare H1 font size: 2em;
-navigation menu background should be color #1.
-navigation links color should be color #2.
+### Details:
+* declare the font size of the document to be 15px;
+* declare H1 font size: 2em;
+* navigation menu background should be color #1.
+* navigation links color should be color #2.
 
 ## Result
-Should look like :
-
-https://kob-e.github.io/Front-End-Beginners---Assignment-2/after/index.html
+Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-2/after/index.html
 
 ### Reference material
 

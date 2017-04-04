@@ -21,7 +21,7 @@ the following colors will be used this exercise:
 ### HTML
 > For images use `figure` and `figcaption` HTML tags please.
 
-####Open a new HTML file
+#### Open a new HTML file
 The file name is `contact.html` with the following fields:
 * First name
 * Email

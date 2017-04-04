@@ -13,7 +13,7 @@ plus the file:
 ## Result
 Should look like :
 
-https://kob-e.github.io/Front-End-Beginners---Assignment-2/result.html
+https://kob-e.github.io/Front-End-Beginners---Assignment-2/after/index.html
 
 ### Reference material
 

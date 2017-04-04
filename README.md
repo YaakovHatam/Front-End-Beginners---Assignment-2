@@ -9,7 +9,14 @@ plus the file:
 
 ## What should you do
 ### HTML
-For images use `figure` and `figcaption` HTML tags please.
+> For images use `figure` and `figcaption` HTML tags please.
+Open a new HTML file `contact.html` with the following fields:
+* First name
+* Email
+* Phone number
+* Details
+
+and send button.
 
 ### Colors:
 * #1: `rgb(70,137,102)`
@@ -19,14 +26,15 @@ For images use `figure` and `figcaption` HTML tags please.
 * #5: `rgb(142,40,0)`
 
 ### CSS:
-#### Sizes:
+#### `index.html`
+##### Sizes:
 * declare the font size of the document to be 15px;
 * declare `h1` font size: `2em`
 * declare `h2` font size: `1.75em`
 * declare `h3` font size: `1.5em`
 * body `width` should be `800px`
 
-#### Colors:
+##### Colors:
 * navigation menu background should be color #1.
 * navigation links color should be color #2.
 * on navigation link hover: background color #2 and font color #1
@@ -34,6 +42,19 @@ For images use `figure` and `figcaption` HTML tags please.
 * `h2` color #4
 * `h3` color #1
 * `h1` bottom border color #3
+
+##### Screenshot:
+![Screenshot of index.html page](screenshotes/ex2-index-screenshot.png)
+
+#### `contact.html`
+##### Sizes:
+* form font size `1.25em`
+
+##### Colors:
+* `input`/`textarea` border color #5
+* `input`/`textarea` on focus: border color #3
+* `button` color #2
+* `button` background color #1
 
 #### Tips &amp; Tricks
 * use `margin: 0 auto` to center page

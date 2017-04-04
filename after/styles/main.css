@@ -71,12 +71,11 @@ form label span{
 form label input, label textarea {
     border: 1px solid rgb(142,40,0); /* #5 */
     padding: 7px;
-    margin: 0px;
     outline: none;
 }
 
 form label input:focus, label textarea:focus {
-    border: 1px solid rgb(255,176,59);
+    border: 1px solid rgb(255,176,59); /* #3 */
 }
 
 form button {

@@ -2,7 +2,7 @@
 HTML &amp; Basic CSS exercise
 
 ## Project files
-The project file is inside the before directory.
+The project file is inside the __before__ directory.
 
 files taken from https://github.com/kob-e/Front-End-Beginners---Assignment-1
 plus the file:

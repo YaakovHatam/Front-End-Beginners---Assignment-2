@@ -44,7 +44,7 @@ and send button.
 * `h1` bottom border color #3
 
 ##### Screenshot:
-![Screenshot of index.html page](./screenshotes/ex2-index-screenshot.png)
+![Screenshot of index.html page](./screenshots/ex2-index-screenshot.png)
 
 #### `contact.html`
 ##### Sizes:
@@ -57,7 +57,7 @@ and send button.
 * `button` background color #1
 
 ##### Screenshot:
-![Screenshot of contact.html page](./screenshotes/ex2-contact-screenshot.png)
+![Screenshot of contact.html page](./screenshots/ex2-contact-screenshot.png)
 
 #### Tips &amp; Tricks
 * use `margin: 0 auto` to center page

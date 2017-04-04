@@ -24,8 +24,7 @@ For images use `figure` and `figcaption` HTML tags please.
 * declare `h1` font size: `2em`
 * declare `h2` font size: `1.75em`
 * declare `h3` font size: `1.5em`
-* body `width` should be `800px`
->(Tip: use `margin: 0 auto` to center page) 
+* body `width` should be `800px` >(Tip: use `margin: 0 auto` to center page) 
 
 #### Colors:
 * navigation menu background should be color #1.

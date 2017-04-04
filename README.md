@@ -57,7 +57,7 @@ and send button.
 * `button` background color #1
 
 ##### Screenshot:
-![Screenshot of contact.html page](/screenshotes/ex2-contact-screenshot.png)
+![Screenshot of contact.html page](screenshotes/ex2-contact-screenshot.png)
 
 #### Tips &amp; Tricks
 * use `margin: 0 auto` to center page

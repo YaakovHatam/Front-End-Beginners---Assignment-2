@@ -74,7 +74,7 @@ Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-2/af
 
 #### Softwares:
 Download Brackets: http://brackets.io/
-
+> Brackets github extension name: brackets-git
 Git: https://www.atlassian.com/git/tutorials/install-git
 
 #### Videos:

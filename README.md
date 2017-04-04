@@ -89,4 +89,7 @@ CSS validator: https://jigsaw.w3.org/css-validator/
 
 Adobe color wheel: https://color.adobe.com/
 
+Font stack (web safe fonts): http://www.cssfontstack.com/
+
+Font awesome: http://fontawesome.io/icons/
  

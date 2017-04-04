@@ -19,10 +19,18 @@ For images use `figure` and `figcaption` HTML tags please.
 * #5: `rgb(142,40,0)`
 
 ### CSS:
+#### Sizes:
 * declare the font size of the document to be 15px;
-* declare H1 font size: 2em;
+* declare `h1` font size: `2em`
+* declare `h2` font size: `1.75em`
+* declare `h3` font size: `1.5em`
+* body `width` should be `800px`
+>(Tip: use `margin: 0 auto` to center page) 
+
+#### Colors:
 * navigation menu background should be color #1.
 * navigation links color should be color #2.
+* 
 
 ## Result
 Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-2/after/index.html

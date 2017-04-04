@@ -1,12 +1,15 @@
 body {
     padding: 15px;
+    font-size: 15px;
+    width: 800px;
+    margin: 0 auto;
 }
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(70,137,102);
 }
 
 nav ul li {
@@ -15,7 +18,7 @@ nav ul li {
 
 nav ul li a {
     display: block;
-    color: white;
+    color: rgb(255,240,165);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -27,4 +30,24 @@ nav ul li a:hover {
 
 footer {
     text-align: center;
+}
+
+figure img {
+    width: 30%;
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(142,40,0);
+}
+
+h2 {
+    font-size: 1.75em;
+    color: rgb(182,73,38);
+    border-bottom: 1px solid rgb(255,176,59);
+}
+
+h3 {
+    font-size: 1.5  em;
+    color: rgb(70,137,102);
 }

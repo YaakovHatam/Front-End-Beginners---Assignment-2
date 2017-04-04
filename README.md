@@ -2,7 +2,9 @@
 HTML &amp; Basic CSS exercise
 
 ## Project files
-The roject files taken from https://github.com/kob-e/Front-End-Beginners---Assignment-1
+The project file is inside the before directory.
+
+files taken from https://github.com/kob-e/Front-End-Beginners---Assignment-1
 plus the file:
 * images/book-cover.png
 

@@ -8,7 +8,8 @@ plus the file:
 
 
 ## What should you do
-### For images use `figure` and `figcaption` HTML tags please.
+### HTML
+For images use `figure` and `figcaption` HTML tags please.
 
 ### Colors:
 * #1: `rgb(70,137,102)`
@@ -17,7 +18,7 @@ plus the file:
 * #4: `rgb(182,73,38)`
 * #5: `rgb(142,40,0)`
 
-### Details:
+### CSS:
 * declare the font size of the document to be 15px;
 * declare H1 font size: 2em;
 * navigation menu background should be color #1.
@@ -30,6 +31,7 @@ Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-2/af
 
 #### Softwares:
 Download Brackets: http://brackets.io/
+
 Git: https://www.atlassian.com/git/tutorials/install-git
 
 #### Videos:

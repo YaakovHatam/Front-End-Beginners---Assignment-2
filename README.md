@@ -24,13 +24,19 @@ For images use `figure` and `figcaption` HTML tags please.
 * declare `h1` font size: `2em`
 * declare `h2` font size: `1.75em`
 * declare `h3` font size: `1.5em`
-* body `width` should be `800px` >(Tip: use `margin: 0 auto` to center page) 
+* body `width` should be `800px`
 
 #### Colors:
 * navigation menu background should be color #1.
 * navigation links color should be color #2.
-* 
+* on navigation link hover: background color #2 and font color #1
+* `h1` color #5
+* `h2` color #4
+* `h3` color #1
+* `h1` bottom border color #3
 
+#### Tips &amp; Tricks
+* use `margin: 0 auto` to center page
 ## Result
 Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-2/after/index.html
 

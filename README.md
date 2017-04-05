@@ -78,7 +78,8 @@ Download Brackets: http://brackets.io/
 Git: https://www.atlassian.com/git/tutorials/install-git
 
 #### Videos:
-How to use Brackets IDE: https://www.youtube.com/watch?v=ZgEkwJKi_Lo&list=PLkeFE2MmL1x-jIRmzmgORYRAUbpsHwctp
+How to use Brackets IDE: https://youtu.be/ZgEkwJKi_Lo
+
 
 #### Online tools:
 Online code editor: https://plnkr.co/

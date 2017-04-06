@@ -80,6 +80,7 @@ Git: https://www.atlassian.com/git/tutorials/install-git
 #### Videos:
 How to use Brackets IDE: https://youtu.be/ZgEkwJKi_Lo
 
+How to install and work with Github &amp; Brackets: https://youtu.be/BSSs1RbwgWg
 
 #### Online tools:
 Online code editor: https://plnkr.co/

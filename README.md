@@ -6,7 +6,7 @@ HTML &amp; Basic CSS exercise
 ## Project files
 The project file is inside the __before__ directory.
 
-files taken from https://github.com/kob-e/Front-End-Beginners---Assignment-1
+files taken from https://github.com/YaakovHatam/Front-End-Beginners---Assignment-1
 plus the file:
 * images/book-cover.png
 
@@ -70,7 +70,7 @@ and send button.
 * use `margin: 0 auto` to center page
 
 ## Result
-Should look like : https://kob-e.github.io/Front-End-Beginners---Assignment-2/after/index.html
+Should look like : https://YaakovHatam.github.io/Front-End-Beginners---Assignment-2/after/index.html
 
 ### Reference materials
 
